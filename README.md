@@ -9,10 +9,6 @@ python eval/test_on_example.py
 ```
 The two video will be crated when you choose the IF_IM parameter with True or False:
 
-# The video with SALOC
-https://github.com/ignc-research/DODL-SALOC/assets/68584274/41d51c94-e3bf-4d6f-b0eb-2d43f5d47708
-
-
-# The video without SALOC
-https://github.com/ignc-research/DODL-SALOC/assets/68584274/38d121aa-f7ae-4288-baff-0f5d28e4225c
+# The video 
+https://github.com/ignc-research/DODL-SALOC/assets/68584274/615ac965-e6ea-46fa-a7bf-2d528cddef81
 
