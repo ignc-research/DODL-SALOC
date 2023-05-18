@@ -3,7 +3,7 @@ The repository contains the test code for the paper: Odometryless Indoor Dynamic
 
 To test the medthod, you can download the chech point and data. Put them under the data folder. We recommand to use conda environment. We provide one example. 
 More dataset can be aquired under https://github.com/ignc-research/habitatdyn. We are working on constructing the dataset and training environment, it will be opensource soon.
-``
+```
 pip install -r requirements.txt
 python eval/test_on_example.py
 ```
